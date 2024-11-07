@@ -5,7 +5,7 @@ Earnings Dates
 Dividends Dates  
 Minimum Market Cap  
 Minimum Volume  
-yfinance "overallRisk"
+yfinance "overallRisk"  
 Fund/Institutional Holdings
 
 readme
