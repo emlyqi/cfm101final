@@ -4,7 +4,7 @@ Beta (TSX60 - XIU.TO)
 Earnings Dates  
 Dividends Dates  
 Minimum Market Cap  
-Minimum Volume 
+Minimum Volume  
 yfinance "overallRisk"  
 Fund/Institutional Holdings
 
